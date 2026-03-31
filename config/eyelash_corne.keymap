@@ -59,8 +59,8 @@
         };
 
         next-BT {
-            bindings = <&mo 4>;
-            key-positions = <2 3 4>;
+            bindings = <&sl 4>;
+            key-positions = <5 33>;
         };
     };
 
