@@ -44,10 +44,10 @@ layers:
   - {t: /, s: '?'}
   - {t: ), h: '$$mdi:apple-keyboard-option$$'}
   - LGUI
-  - {t: F16, h: '$$mdi:apple-keyboard-control$$'}
+  - {t: F16, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '$$mdi:keyboard-space$$', h: NUMBER}
   - {t: '$$mdi:keyboard-return$$', h: SYMBOL}
-  - {t: APPLICATION, h: '$$mdi:apple-keyboard-option$$'}
+  - {t: APPLICATION, h: '$$mdi:apple-keyboard-shift$$'}
   - RIGHT GUI
   NUMBER:
   - {t: '`', s: '~'}
