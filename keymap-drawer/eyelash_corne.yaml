@@ -250,3 +250,5 @@ combos:
   k: '&soft_off'
 - p: [5, 33]
   k: {t: BT, h: '$$mdi:gesture-tap-hold$$'}
+- p: [43, 46]
+  k: $$mdi:alpha-w-box$$
